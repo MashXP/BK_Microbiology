@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the specific role of N-acetylmuramic acid (NAM) in the structure of peptidoglycan?",
+    "options": [
+      "It forms the carbohydrate backbone with NAG.",
+      "It forms the tetrapeptide side chain.",
+      "It forms the amino acid cross-bridge.",
+      "It is found only in gram-negative bacteria."
+    ],
+    "answer": "It forms the carbohydrate backbone with NAG."
+  },
+  {
+    "question": "What is the function of the enzyme transpeptidase, which is inhibited by penicillin?",
+    "options": [
+      "It links the NAG and NAM monomers.",
+      "It synthesizes the tetrapeptide side chain.",
+      "It forms the cross-bridges between peptidoglycan layers.",
+      "It breaks down the cell wall during cell division."
+    ],
+    "answer": "It forms the cross-bridges between peptidoglycan layers."
+  },
+  {
+    "question": "Which of the following is a key difference between the plasma membrane of bacteria and archaea?",
+    "options": [
+      "Bacteria have a phospholipid bilayer, while archaea have a monolayer.",
+      "Archaea use isoprene chains and L-glycerol in their plasma membrane.",
+      "Bacteria have sterols in their plasma membrane, while archaea do not.",
+      "Archaea have a more fluid plasma membrane than bacteria."
+    ],
+    "answer": "Archaea use isoprene chains and L-glycerol in their plasma membrane."
+  },
+  {
+    "question": "What is the function of carboxysomes in bacteria?",
+    "options": [
+      "They store inorganic phosphate.",
+      "They contain enzymes for CO2 fixation.",
+      "They are used for buoyancy.",
+      "They store iron oxide."
+    ],
+    "answer": "They contain enzymes for CO2 fixation."
+  },
+  {
+    "question": "Which of the following is a characteristic of aerotolerant anaerobes?",
+    "options": [
+      "They require oxygen for growth.",
+      "They are harmed by the presence of oxygen.",
+      "They do not use oxygen for growth but can tolerate it.",
+      "They use oxygen for fermentation."
+    ],
+    "answer": "They do not use oxygen for growth but can tolerate it."
+  },
+  {
+    "question": "What is the mechanism of action of ionizing radiation as a microbial control agent?",
+    "options": [
+      "It creates thymine dimers in DNA.",
+      "It denatures proteins by breaking hydrogen bonds.",
+      "It ionizes water to create highly reactive free radicals.",
+      "It damages the lipid structure of the cell membrane."
+    ],
+    "answer": "It ionizes water to create highly reactive free radicals."
+  },
+  {
+    "question": "What is the role of the Golgi body in yeast cells?",
+    "options": [
+      "It is the site of cellular respiration.",
+      "It contains hydrolytic enzymes.",
+      "It modifies, sorts, and packages proteins and lipids.",
+      "It is involved in DNA replication."
+    ],
+    "answer": "It modifies, sorts, and packages proteins and lipids."
+  },
+  {
+    "question": "What is the difference between a peritrichous and a lophotrichous flagellar arrangement?",
+    "options": [
+      "Peritrichous means a single flagellum, while lophotrichous means a tuft of flagella.",
+      "Peritrichous means flagella at both ends, while lophotrichous means flagella all over.",
+      "Peritrichous means flagella all over, while lophotrichous means a tuft of flagella at one end.",
+      "Peritrichous means a tuft of flagella, while lophotrichous means a single flagellum."
+    ],
+    "answer": "Peritrichous means flagella all over, while lophotrichous means a tuft of flagella at one end."
+  },
+  {
+    "question": "What is the function of an iodophor, such as Betadine?",
+    "options": [
+      "It is a type of antibiotic.",
+      "It is a surfactant that removes microbes by scrubbing.",
+      "It is a combination of iodine and an organic molecule that releases iodine slowly.",
+      "It is a type of aldehyde used for sterilization."
+    ],
+    "answer": "It is a combination of iodine and an organic molecule that releases iodine slowly."
+  },
+  {
+    "question": "What is the Most Probable Number (MPN) method used for?",
+    "options": [
+      "To obtain a pure culture of bacteria.",
+      "To estimate the number of bacteria in a sample.",
+      "To measure the dry weight of a bacterial culture.",
+      "To determine the generation time of a bacterium."
+    ],
+    "answer": "To estimate the number of bacteria in a sample."
+  }
+]

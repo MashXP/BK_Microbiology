@@ -1,3 +1,7 @@
 Microbiology \note.txt
 _raw
 _pdf
+_report
+.venv
+*.py
+requirements.txt
